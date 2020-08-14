@@ -1,0 +1,13 @@
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\bin\Debug\netcoreapp3.1\CalculadoraDeber.exe
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\bin\Debug\netcoreapp3.1\CalculadoraDeber.deps.json
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\bin\Debug\netcoreapp3.1\CalculadoraDeber.runtimeconfig.json
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\bin\Debug\netcoreapp3.1\CalculadoraDeber.runtimeconfig.dev.json
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\bin\Debug\netcoreapp3.1\CalculadoraDeber.dll
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\bin\Debug\netcoreapp3.1\CalculadoraDeber.pdb
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\obj\Debug\netcoreapp3.1\CalculadoraDeber.csprojAssemblyReference.cache
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\obj\Debug\netcoreapp3.1\CalculadoraDeber.AssemblyInfoInputs.cache
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\obj\Debug\netcoreapp3.1\CalculadoraDeber.AssemblyInfo.cs
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\obj\Debug\netcoreapp3.1\CalculadoraDeber.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\obj\Debug\netcoreapp3.1\CalculadoraDeber.dll
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\obj\Debug\netcoreapp3.1\CalculadoraDeber.pdb
+C:\Users\Mateo\source\repos\Calculadora\CalculadoraDeber\obj\Debug\netcoreapp3.1\CalculadoraDeber.genruntimeconfig.cache
